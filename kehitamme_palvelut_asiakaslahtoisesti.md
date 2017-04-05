@@ -5,10 +5,14 @@ Palveluiden kehittämisen keskiössä ovat asiakkaiden todelliset tarpeet, tavoi
 Asiakaslähtöisessä palvelujen kehittämisessä on huomioitava, että ihmisten ja yritysten tarpeet liittyvät aina johonkin tiettyyn elämäntapahtumaan tai liiketoimintatapahtumaan. Elämäntapahtuma on esimerkiksi lapsen saaminen ja liiketoimintatapahtumana yrityksen kansainvälistyminen. Tämä ajattelu auttaa julkista hallintoa varmistamaan, että toiminnan lähtökohtana on sujuva elämä ja yritystoiminta. 
 
 Toimeenpano
-•	
+•
+•
+•
 
 Avainkysymykset:
-
+•
+•
+•
 
 Lisätietoja:
 Aleksi Kopponen, erityisasiantuntija 
